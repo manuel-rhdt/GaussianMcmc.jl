@@ -40,7 +40,8 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 ArgParse = "1.1"
-DiffEqBase = "6.48"
-StaticArrays = "0.12"
 DataFrames = "0.21"
+DiffEqBase = "6.48"
 DrWatson = "1.16"
+StaticArrays = "0.12"
+StatsFuns = "0.9"
